@@ -1,27 +1,10 @@
-![Logo](sprites/BBM_logo.png)
+# STAR-WARS-MOD
+This mod adds star wars designed block, units, turrets and much more, still in alpha , i future there will be maps, lot of maps, just wait on it
 
-# Better-Blocks-Mod
-This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO)
+## Update v1.1
+- Added 1 new unit
+- Added 1 new unit factory
+- decrease power taking on 30
+- repair some bugs
 
-# Translators
-- [MemFaceGo](https://github.com/MemFaceGo) (Russian - Owner)
-- [LonelyYmomfe](https://github.com/ymomfe) (Ukrainian)
-- Makc - Carbon (Ukrainian)
-- NoName (Korean)
 
-## Update v1.4
-- Added 2 New Conveyors
-- Added Super Overdrive Projector
-- Added Teleport (from Mindustry Classic)
-- Revamped Batteries
-- Fixed Block Boost
-
-![Logo](sprites/Screenshot_586.png)
-
-## Update v1.3
-- Added 14 new blocks
-- Added 3 New items
-- Added new liquid
-- Some Fixes
-
-![Logo](sprites/Screenshot_562.png)
